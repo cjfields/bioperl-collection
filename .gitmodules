@@ -1,0 +1,21 @@
+[submodule "Bio-Root"]
+	path = Bio-Root
+	url = git@github.com:bioperl/Bio-Root.git
+[submodule "Bio-Event"]
+	path = Bio-Event
+	url = git@github.com:bioperl/Bio-Event.git
+[submodule "Bio-Coordinate"]
+	path = Bio-Coordinate
+	url = git@github.com:bioperl/Bio-Coordinate.git
+[submodule "Bio-Das"]
+	path = Bio-Das
+	url = git@github.com:bioperl/Bio-Das.git
+[submodule "Bio-EUtilities"]
+	path = Bio-EUtilities
+	url = git@github.com:bioperl/Bio-EUtilities.git
+[submodule "Bio-Range"]
+	path = Bio-Range
+	url = git@github.com:bioperl/Bio-Range.git
+[submodule "Bio-Factory"]
+	path = Bio-Factory
+	url = git@github.com:bioperl/Bio-Factory.git
